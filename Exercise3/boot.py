@@ -13,5 +13,5 @@ pycom.wifi_mode_on_boot(WLAN.STA)
 pycom.wifi_ssid_sta('network_ssid')
 pycom.wifi_pwd_sta('network_password')
 
-#machine.main('wifi.py')
-machine.main('BLE.py')
+machine.main('wifi.py')
+#machine.main('BLE.py')
